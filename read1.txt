@@ -1,0 +1,4 @@
+on the insert tab, the galleries include items 
+that are designed to coordinate with the overall 
+look of your document. you can use these galleries 
+to insert tables, headers, footers, lists, cover 

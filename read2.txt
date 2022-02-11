@@ -1,0 +1,7 @@
+to change the overall look of your document, 
+Choose new theme elements on the page layout tab. 
+To change the looks available in the quick 
+Style gallery, use the change current quick 
+Style set command. both the themes gallery 
+The quick styles gallery provide reset commands 
+So that you can always restore the look
