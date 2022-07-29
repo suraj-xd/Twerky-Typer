@@ -1,6 +1,8 @@
 # Twerky-Typer
-C++ command shell based Typing tutor
 
-It's small offline project for typing .
+This is a CLI-based Typing Tutor
 
-Hope u like it and contribute to the project!
+Featues like WPM and other
+
+Use: <br>
+Run: `a.exe`
