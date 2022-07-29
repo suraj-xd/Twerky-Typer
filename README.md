@@ -1,9 +1,13 @@
 # Twerky-Typer
+[![cli](https://img.shields.io/badge/CLI-000?style=for-the-badge&logo=bash&logoColor=white)]
 
-This is a _CLI-based_ Typing Tutor
+
+This is a CLI-based Typing Tutor
 Build in `C++`
 
 Featues like WPM and other..
 
-Use: <br>
-Run: `a.exe`
+
+```bash
+  gcc a.exe
+```
